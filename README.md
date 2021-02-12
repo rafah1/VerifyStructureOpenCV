@@ -1,2 +1,2 @@
 # VerifyStructureOpenCV
-Verify Structure of a OpenCV python project in GITHUB
+Verify Structure of an OpenCV python project in GITHUB
